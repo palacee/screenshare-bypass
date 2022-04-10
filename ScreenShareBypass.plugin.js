@@ -21,7 +21,7 @@ module.exports = (() => {
 			],
 			version: "1.0",
 			description:
-				"Enable high quality screen sharing without Nitro; Library from other Nitro emote plugin",
+				"Enable high quality screen sharing without Nitro; Library from oSumAtrIX's Nitro emote plugin",
 			github: "https://github.com/palacee",
 			github_raw:
 				"https://raw.githubusercontent.com/palacee/screenshare-bypass/main/ScreenShareBypass.plugin.js",
