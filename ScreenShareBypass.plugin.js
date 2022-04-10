@@ -4,9 +4,9 @@
  * @authorId 737323631117598811
  * @version 1.0
  * @description Enable high quality screen sharing without Nitro
- * @website https://osumatrix.me
- * @source https://github.com/oSumAtrIX/BetterDiscordPlugins
- * @updateUrl https://raw.githubusercontent.com/oSumAtrIX/BetterDiscordPlugins/master/ScreenShareBypass.plugin.js
+ * @website https://github.com/palacee
+ * @source https://github.com/palacee/screenshare-bypass
+ * @updateUrl https://raw.githubusercontent.com/palacee/screenshare_bypass/main/ScreenShareBypass.plugin.js
  */
 module.exports = (() => {
 	const config = {
@@ -24,7 +24,7 @@ module.exports = (() => {
 				"Enable high quality screen sharing without Nitro; Edited version of oSumAtrIX's BD Plugin",
 			github: "https://github.com/palacee",
 			github_raw:
-				"https://raw.githubusercontent.com/oSumAtrIX/BetterDiscordPlugins/master/ScreenShareBypass.plugin.js",
+				"https://raw.githubusercontent.com/palacee/screenshare-bypass/main/ScreenShareBypass.plugin.js",
 		},
 		main: "ScreenShareBypass.plugin.js",
 	};
