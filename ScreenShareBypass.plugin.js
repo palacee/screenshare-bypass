@@ -6,7 +6,7 @@
  * @description Enable high quality screen sharing without Nitro
  * @website https://github.com/palacee
  * @source https://github.com/palacee/screenshare-bypass
- * @updateUrl https://raw.githubusercontent.com/palacee/screenshare_bypass/main/ScreenShareBypass.plugin.js
+ * @updateUrl https://raw.githubusercontent.com/palacee/screenshare-bypass/main/ScreenShareBypass.plugin.js
  */
 module.exports = (() => {
 	const config = {
