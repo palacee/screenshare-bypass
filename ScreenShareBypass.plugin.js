@@ -83,6 +83,7 @@ module.exports = (() => {
 		: (([Plugin, Api]) => {
 				const plugin = (Plugin, Api) => {
 					const { Patcher, DiscordModules, Settings, PluginUtilities } = Api;
+					return class ScreenShareBypass extends Plugin {
 
 						onStart() {
 							// spoof client side premium
